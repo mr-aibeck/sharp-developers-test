@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8f0f4c37ff4a650fd1cd5432980d195",
+    "revision": "edba2e81756f245f22c531e38f768d22",
     "url": "/sharp-developers-test/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sharp-developers-test/static/css/2.117ce29f.chunk.css"
   },
   {
-    "revision": "2d02fc76a4849daf3f94",
+    "revision": "abf9ff07e88a862b0e1e",
     "url": "/sharp-developers-test/static/css/main.2ed764e7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sharp-developers-test/static/js/2.883ca8df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d02fc76a4849daf3f94",
-    "url": "/sharp-developers-test/static/js/main.759d4f04.chunk.js"
+    "revision": "abf9ff07e88a862b0e1e",
+    "url": "/sharp-developers-test/static/js/main.ca8238a3.chunk.js"
   },
   {
     "revision": "120398a8d760982e6a37",
