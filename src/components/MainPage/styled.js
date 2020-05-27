@@ -199,7 +199,7 @@ export const Item = styled.li`
   }
 
   @media(max-width: 1073px) {
-    flex-basis: 29%;
+    flex-basis: 28%;
   }
 
   @media(max-width: 1003px) {
