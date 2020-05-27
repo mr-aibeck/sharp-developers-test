@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sharp-developers-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sharp-developers-test/static/js/main.9128821b.chunk.js",
+    "main.js.map": "/sharp-developers-test/static/js/main.9128821b.chunk.js.map",
+    "runtime-main.js": "/sharp-developers-test/static/js/runtime-main.55bfb313.js",
+    "runtime-main.js.map": "/sharp-developers-test/static/js/runtime-main.55bfb313.js.map",
+    "static/js/2.2f5ef2c2.chunk.js": "/sharp-developers-test/static/js/2.2f5ef2c2.chunk.js",
+    "static/js/2.2f5ef2c2.chunk.js.map": "/sharp-developers-test/static/js/2.2f5ef2c2.chunk.js.map",
+    "index.html": "/sharp-developers-test/index.html",
+    "precache-manifest.01d9dc3a3dfde339afce742b41aba4f6.js": "/sharp-developers-test/precache-manifest.01d9dc3a3dfde339afce742b41aba4f6.js",
+    "service-worker.js": "/sharp-developers-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sharp-developers-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2f5ef2c2.chunk.js.LICENSE.txt": "/sharp-developers-test/static/js/2.2f5ef2c2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sharp-developers-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55bfb313.js",
+    "static/js/2.2f5ef2c2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9128821b.chunk.js"
+  ]
+}
