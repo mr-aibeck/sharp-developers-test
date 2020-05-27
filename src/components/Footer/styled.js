@@ -140,7 +140,6 @@ export const BrowsersBlock = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  width: 100%;
   margin-bottom: 25px;
   text-align: right;
 
@@ -149,6 +148,10 @@ export const BrowsersBlock = styled.div`
     text-align: center;
     margin-bottom: 42px;
     max-width: 260px;
+  }
+
+  p {
+    width: 260px;
   }
 `
 
