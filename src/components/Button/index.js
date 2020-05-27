@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import noise from './noise.png';
 import { font } from '../_mixins';
 
 const ButtonComponent = styled.button`
@@ -10,7 +11,7 @@ const ButtonComponent = styled.button`
   ${props => props.type === 'default' && font.brandLargeBold};
 
   ${props => props.type === 'default' && `
-     background: linear-gradient(#f4f4f4 0%, #e6e6e6 100%), url("noise.png");
+     background: linear-gradient(#f4f4f4 0%, #e6e6e6 100%), url(${noise});
      border-radius: 8px;
      background-repeat: repeat;
 	   box-shadow: inset 0px 1px 0px #f8f8f8, 0px 2px 0px 0px #d6d6d6, 0px 3px 5px #999;
@@ -21,12 +22,12 @@ const ButtonComponent = styled.button`
      padding: 0 42px;
 
      &:hover {
-       background: linear-gradient(#e6e6e6 0%, #f4f4f4 100%), url("noise.png");
+       background: linear-gradient(#e6e6e6 0%, #f4f4f4 100%), url(${noise});
        opacity: 0.8;
      }
 
      &:active {
-       background: linear-gradient(#f4f4f4 0%, #e6e6e6 100%), url("noise.png");
+       background: linear-gradient(#f4f4f4 0%, #e6e6e6 100%), url(${noise});
        border: 1px solid rgba(0,0,0,0);
    	   box-shadow: inset 0px 2px 5px rgba(0,0,0,0.35), 0px 2px 0px 0px #d6d6d6, 0px 3px 5px #999;
        opacity: 1;
@@ -62,7 +63,7 @@ const ButtonComponent = styled.button`
     opacity: 0.25;
 
     &:hover {
-      background: linear-gradient(#f4f4f4 0%, #e6e6e6 100%), url("noise.png");
+      background: linear-gradient(#f4f4f4 0%, #e6e6e6 100%), url(${noise});
 	    box-shadow: inset 0px 1px 0px #f8f8f8, 0px 2px 0px 0px #d6d6d6, 0px 3px 5px #999;
       cursor: default;
       opacity: 0.25;

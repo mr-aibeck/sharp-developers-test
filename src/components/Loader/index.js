@@ -1,6 +1,7 @@
 import React from 'react';
 import { font } from '../_mixins';
 import styled, { keyframes } from 'styled-components';
+import spinner from './Spinner.png'
 
 const Wrap = styled.div`
   color: #646464;
@@ -21,7 +22,7 @@ const rotate = keyframes`
 
 const Spinner = styled.div`
   animation: ${rotate} 1.4s infinite linear;
-  background: url('Spinner.png');
+  background: url(${spinner});
   margin-bottom: 12px;
   height: 56px;
   width: 59px;

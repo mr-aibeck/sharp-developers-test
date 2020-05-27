@@ -2,9 +2,10 @@ import styled from 'styled-components';
 import Button from '../Button';
 import Input from '../Input';
 import { font } from '../_mixins';
+import background from './assets/background.jpg';
 
 export const Wrap = styled.div`
-  background: url('background.jpg') repeat;
+  background: url(${background}) repeat;
   display: flex;
   justify-content: center;
   width: 100%;

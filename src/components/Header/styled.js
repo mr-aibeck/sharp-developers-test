@@ -1,16 +1,18 @@
 import styled from 'styled-components';
 import Icon from '../Icon';
+import header from './header.jpg';
+import header320 from './header-320.jpg';
 import { font } from '../_mixins';
 
 export const HeaderWrap = styled.header`
-  background: #000000 url("header-320.jpg") no-repeat center;
+  background: #000000 url(${header320}) no-repeat center;
   background-size: cover;
   display: flex;
   height: 110px;
   width: 100%;
 
   @media(min-width: 576px) {
-    background: #000000 url("header.jpg") no-repeat center;
+    background: #000000 url(${header}) no-repeat center;
     height: 155px;
   }
 `;
