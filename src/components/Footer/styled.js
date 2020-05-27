@@ -14,6 +14,7 @@ export const SocialBlock = styled.div`
   margin: 0 auto;
   min-width: 320px;
   max-width: 1170px;
+  width: 100%;
 
   @media (max-width: 768px) {
     box-sizing: border-box;
@@ -27,6 +28,7 @@ export const SocialList = styled.ul`
   justify-content: space-around;
   flex-grow: 2;
   max-width: 800px;
+  width: 100%;
 
   @media (max-width: 768px) {
     width: 100%;
@@ -47,6 +49,7 @@ export const Copyright = styled.div`
   flex-grow: 1;
   ${font.spacing2};
   max-width: 205px;
+  width: 100%;
 
   ${props => props.isSecond && `
     display: none;
@@ -72,6 +75,7 @@ export const FooterLinks = styled.div`
   margin: 0 auto;
   min-width: 320px;
   max-width: 1170px;
+  width: 100%;
   padding: 0 48px;
 
   @media (max-width: 768px) {
@@ -85,7 +89,14 @@ export const FooterLinks = styled.div`
 export const FooterLinksList = styled.ul`
   flex-grow: 1;
   max-width: 282px;
+  width: 100%;
   margin-bottom: 20px;
+
+  @media (max-width: 768px) {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
 `
 
 export const FooterLinkItem = styled.li`
@@ -95,6 +106,7 @@ export const FooterLinkItem = styled.li`
   ${font.H5}
   margin-bottom: 12px;
   max-width: 210px;
+  width: 100%;
   padding-right: 5px;
   flex-wrap: wrap;
 
@@ -129,6 +141,7 @@ export const BrowsersBlock = styled.div`
   flex-direction: column;
   justify-content: flex-end;
   max-width: 260px;
+  width: 100%;
   margin-bottom: 25px;
   text-align: right;
 
