@@ -1,23 +1,36 @@
 {
   "files": {
-    "main.css": "/sharp-developers-test/static/css/main.5f361e03.chunk.css",
-    "main.js": "/sharp-developers-test/static/js/main.9128821b.chunk.js",
-    "main.js.map": "/sharp-developers-test/static/js/main.9128821b.chunk.js.map",
-    "runtime-main.js": "/sharp-developers-test/static/js/runtime-main.55bfb313.js",
-    "runtime-main.js.map": "/sharp-developers-test/static/js/runtime-main.55bfb313.js.map",
-    "static/js/2.2f5ef2c2.chunk.js": "/sharp-developers-test/static/js/2.2f5ef2c2.chunk.js",
-    "static/js/2.2f5ef2c2.chunk.js.map": "/sharp-developers-test/static/js/2.2f5ef2c2.chunk.js.map",
+    "main.css": "/sharp-developers-test/static/css/main.2ed764e7.chunk.css",
+    "main.js": "/sharp-developers-test/static/js/main.91933b8d.chunk.js",
+    "main.js.map": "/sharp-developers-test/static/js/main.91933b8d.chunk.js.map",
+    "runtime-main.js": "/sharp-developers-test/static/js/runtime-main.4d146164.js",
+    "runtime-main.js.map": "/sharp-developers-test/static/js/runtime-main.4d146164.js.map",
+    "static/css/2.117ce29f.chunk.css": "/sharp-developers-test/static/css/2.117ce29f.chunk.css",
+    "static/js/2.f2c8632b.chunk.js": "/sharp-developers-test/static/js/2.f2c8632b.chunk.js",
+    "static/js/2.f2c8632b.chunk.js.map": "/sharp-developers-test/static/js/2.f2c8632b.chunk.js.map",
     "index.html": "/sharp-developers-test/index.html",
-    "precache-manifest.01d9dc3a3dfde339afce742b41aba4f6.js": "/sharp-developers-test/precache-manifest.01d9dc3a3dfde339afce742b41aba4f6.js",
+    "precache-manifest.25023766969ff1f286eb7bbc63b4b967.js": "/sharp-developers-test/precache-manifest.25023766969ff1f286eb7bbc63b4b967.js",
     "service-worker.js": "/sharp-developers-test/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/sharp-developers-test/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2f5ef2c2.chunk.js.LICENSE.txt": "/sharp-developers-test/static/js/2.2f5ef2c2.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/sharp-developers-test/static/media/logo.5d5d9eef.svg"
+    "static/css/2.117ce29f.chunk.css.map": "/sharp-developers-test/static/css/2.117ce29f.chunk.css.map",
+    "static/css/main.2ed764e7.chunk.css.map": "/sharp-developers-test/static/css/main.2ed764e7.chunk.css.map",
+    "static/js/2.f2c8632b.chunk.js.LICENSE.txt": "/sharp-developers-test/static/js/2.f2c8632b.chunk.js.LICENSE.txt",
+    "static/media/css_sprites.png": "/sharp-developers-test/static/media/css_sprites.5e793b93.png",
+    "static/media/header-320.jpg": "/sharp-developers-test/static/media/header-320.c2486c62.jpg",
+    "static/media/header.jpg": "/sharp-developers-test/static/media/header.e1fe5f49.jpg",
+    "static/media/parrot1.png": "/sharp-developers-test/static/media/parrot1.f1d9bc11.png",
+    "static/media/parrot2.png": "/sharp-developers-test/static/media/parrot2.a09fe2db.png",
+    "static/media/parrot3.png": "/sharp-developers-test/static/media/parrot3.819ab9ce.png",
+    "static/media/parrot4.png": "/sharp-developers-test/static/media/parrot4.5ce8de82.png",
+    "static/media/parrot5.png": "/sharp-developers-test/static/media/parrot5.7785dca7.png",
+    "static/media/parrot6.png": "/sharp-developers-test/static/media/parrot6.691b3ba7.png",
+    "static/media/parrot7.png": "/sharp-developers-test/static/media/parrot7.6efcc819.png",
+    "static/media/parrot8.png": "/sharp-developers-test/static/media/parrot8.1d940f85.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.55bfb313.js",
-    "static/js/2.2f5ef2c2.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.9128821b.chunk.js"
+    "static/js/runtime-main.4d146164.js",
+    "static/css/2.117ce29f.chunk.css",
+    "static/js/2.f2c8632b.chunk.js",
+    "static/css/main.2ed764e7.chunk.css",
+    "static/js/main.91933b8d.chunk.js"
   ]
 }
