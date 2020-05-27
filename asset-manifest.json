@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/sharp-developers-test/static/css/main.2ed764e7.chunk.css",
-    "main.js": "/sharp-developers-test/static/js/main.91933b8d.chunk.js",
-    "main.js.map": "/sharp-developers-test/static/js/main.91933b8d.chunk.js.map",
+    "main.js": "/sharp-developers-test/static/js/main.759d4f04.chunk.js",
+    "main.js.map": "/sharp-developers-test/static/js/main.759d4f04.chunk.js.map",
     "runtime-main.js": "/sharp-developers-test/static/js/runtime-main.4d146164.js",
     "runtime-main.js.map": "/sharp-developers-test/static/js/runtime-main.4d146164.js.map",
     "static/css/2.117ce29f.chunk.css": "/sharp-developers-test/static/css/2.117ce29f.chunk.css",
-    "static/js/2.f2c8632b.chunk.js": "/sharp-developers-test/static/js/2.f2c8632b.chunk.js",
-    "static/js/2.f2c8632b.chunk.js.map": "/sharp-developers-test/static/js/2.f2c8632b.chunk.js.map",
+    "static/js/2.883ca8df.chunk.js": "/sharp-developers-test/static/js/2.883ca8df.chunk.js",
+    "static/js/2.883ca8df.chunk.js.map": "/sharp-developers-test/static/js/2.883ca8df.chunk.js.map",
     "index.html": "/sharp-developers-test/index.html",
-    "precache-manifest.25023766969ff1f286eb7bbc63b4b967.js": "/sharp-developers-test/precache-manifest.25023766969ff1f286eb7bbc63b4b967.js",
+    "precache-manifest.302424e6623b7b7644916746cbc5303c.js": "/sharp-developers-test/precache-manifest.302424e6623b7b7644916746cbc5303c.js",
     "service-worker.js": "/sharp-developers-test/service-worker.js",
     "static/css/2.117ce29f.chunk.css.map": "/sharp-developers-test/static/css/2.117ce29f.chunk.css.map",
     "static/css/main.2ed764e7.chunk.css.map": "/sharp-developers-test/static/css/main.2ed764e7.chunk.css.map",
-    "static/js/2.f2c8632b.chunk.js.LICENSE.txt": "/sharp-developers-test/static/js/2.f2c8632b.chunk.js.LICENSE.txt",
+    "static/js/2.883ca8df.chunk.js.LICENSE.txt": "/sharp-developers-test/static/js/2.883ca8df.chunk.js.LICENSE.txt",
     "static/media/css_sprites.png": "/sharp-developers-test/static/media/css_sprites.5e793b93.png",
     "static/media/header-320.jpg": "/sharp-developers-test/static/media/header-320.c2486c62.jpg",
     "static/media/header.jpg": "/sharp-developers-test/static/media/header.e1fe5f49.jpg",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.4d146164.js",
     "static/css/2.117ce29f.chunk.css",
-    "static/js/2.f2c8632b.chunk.js",
+    "static/js/2.883ca8df.chunk.js",
     "static/css/main.2ed764e7.chunk.css",
-    "static/js/main.91933b8d.chunk.js"
+    "static/js/main.759d4f04.chunk.js"
   ]
 }

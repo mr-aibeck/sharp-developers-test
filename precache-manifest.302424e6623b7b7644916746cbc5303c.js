@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "69944580cdf60287fb649d3ffb9643b9",
+    "revision": "a8f0f4c37ff4a650fd1cd5432980d195",
     "url": "/sharp-developers-test/index.html"
   },
   {
-    "revision": "c80f44684543942dc19d",
+    "revision": "e63201d2973d1d92ed0a",
     "url": "/sharp-developers-test/static/css/2.117ce29f.chunk.css"
   },
   {
-    "revision": "415a1e1cce68e762616a",
+    "revision": "2d02fc76a4849daf3f94",
     "url": "/sharp-developers-test/static/css/main.2ed764e7.chunk.css"
   },
   {
-    "revision": "c80f44684543942dc19d",
-    "url": "/sharp-developers-test/static/js/2.f2c8632b.chunk.js"
+    "revision": "e63201d2973d1d92ed0a",
+    "url": "/sharp-developers-test/static/js/2.883ca8df.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/sharp-developers-test/static/js/2.f2c8632b.chunk.js.LICENSE.txt"
+    "url": "/sharp-developers-test/static/js/2.883ca8df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "415a1e1cce68e762616a",
-    "url": "/sharp-developers-test/static/js/main.91933b8d.chunk.js"
+    "revision": "2d02fc76a4849daf3f94",
+    "url": "/sharp-developers-test/static/js/main.759d4f04.chunk.js"
   },
   {
     "revision": "120398a8d760982e6a37",
