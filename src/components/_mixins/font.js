@@ -8,28 +8,33 @@ const font = {
   brandMiddle: () => `
     font-family: Arial;
     font-size: 12px;
+    line-height: 14px;
   `,
 
   brandMiddleBold: () => `
     font-family: Arial;
     font-size: 12px;
     font-weight: 700;
+    line-height: 14px;
   `,
 
   brandLarge: () => `
     font-family: Arial;
     font-size: 14px;
+    line-height: 16px;
   `,
 
   brandLargeBold: () => `
     font-family: Arial;
     font-size: 14px;
+    line-height: 16px;
     font-weight: 700;
   `,
 
   brandLargest: () => `
     font-family: Arial;
     font-size: 16px;
+    line-height: 18px;
   `,
 
   H1: () => `

@@ -70,10 +70,12 @@ const Footer = () => {
 
           <BrowsersBlock>
             <BrowserIcon type="browser_icons" />
-            Project should work on next stack:
-            IE11, actual version of Firefox, Chrome
-            on desktop and android, Opera (opera mini),
-            Safari on mac and ios.
+            <p>
+              Project should work on next stack:
+              IE11, actual version of Firefox, Chrome
+              on desktop and android, Opera (opera mini),
+              Safari on mac and ios.
+            </p>
           </BrowsersBlock>
         </FooterLinks>
 
